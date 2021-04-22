@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Je m'appelle Bamba. Je suis actuellement en remédiation en Data Science (Science des données), Big Data (mégadonnées) et BI Analyst (Intégration de données et analyse d'affaires). Apres des études classiques de mathématique, physique, chimie et informatique, je me suis spécialisé en Statistique et informatique, pour devenir un ingénieur des données et c'est en ce moment que j'ai découvert, les merveilles que l'on pourrait réaliser avec les données grâce à une technique, encore jeune, qui est l'intelligence artificielle(Machine Learning, Deep Learning), depuis lors je ne cesse de me perfectionner pour devenir un pionnier de ce domaine.
 <!--
 **BambaSpoid/BambaSpoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
