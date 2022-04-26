@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Apres des études classiques de mathématique, physique, chimie et informatique, je me suis spécialisé en sciences des données . 
-Je suis passionne par l'IA et les données. Je partage certains de mes projets ici.
-Feel free to see it
+After classical studies in mathematics, physical chemistry, and computer science, I specialized in data science. 
+I am passionate about AI and data. I will share some of my projects here.Feel free to see it.
 <!--
 **BambaSpoid/BambaSpoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
