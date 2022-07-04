@@ -1,7 +1,7 @@
 Hi 👋 Welcome to my Github
 ======================================
 
-Engineer in Statistics & Business Intelligence | Machine Intelligence Student
+Engineer in Statistics & Business Intelligence | Machine Intelligence at AIMS
 -------------------------------------------------------------------------------------------------
 
 After classical studies in mathematics, physical chemistry, and computer science, I specialized in data science. I am passionate about AI and data. I will share some of my projects here.Feel free to see it.
