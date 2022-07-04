@@ -1,7 +1,7 @@
 Hi 👋 My name is Mouhamadou Bamba DIOP
 ======================================
 
-Engineer in Statistics & Business Intelligence (Graduated) | African Master of Machine Intelligence
+Engineer in Statistics & Business Intelligence | African Master of Machine Intelligence
 -------------------------------------------------------------------------------------------------
 
 After classical studies in mathematics, physical chemistry, and computer science, I specialized in data science. I am passionate about AI and data. I will share some of my projects here.Feel free to see it.
