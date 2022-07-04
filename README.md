@@ -1,4 +1,4 @@
-Hi 👋 My name is Mouhamadou Bamba DIOP
+Here we go 👋
 ======================================
 
 Engineer in Statistics & Business Intelligence | Machine Intelligence Student
