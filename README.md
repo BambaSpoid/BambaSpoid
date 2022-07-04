@@ -1,4 +1,4 @@
-Here we go 👋
+Hi 👋 Welcome to my Github
 ======================================
 
 Engineer in Statistics & Business Intelligence | Machine Intelligence Student
