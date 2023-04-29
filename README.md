@@ -9,7 +9,6 @@ After classical studies in mathematics, physical chemistry, and computer science
 * 🌍  I'm based in Dakar, Senegal
 * 🤝  I'm open to collaborating on research projects.
 * ✉️  You can contact me at [mdiop@aimsammi.org](mailto:mdiop@aimsammi.org)
-* ⚡  I like fitness.
 
 <a href="https://www.twitter.com/BambaSpoid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/BambaSpoid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
