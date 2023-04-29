@@ -1,15 +1,15 @@
 Hi 👋 Welcome to my Github
 ======================================
 
-AMMI  Fellow 2022
+
 -------------------------------------------------------------------------------------------------
 
-After classical studies in mathematics, physical chemistry, and computer science, I specialized in data science. I am passionate about AI and data. I will share some of my projects here. Feel free to see it.
+After classical studies in mathematics, physical chemistry, and computer science, I specialized in Machine Intelligence. I am passionate about AI and data. I will share some of my projects here. Feel free to see it.
 
 * 🌍  I'm based in Dakar, Senegal
-* 🤝  I'm open to collaborating on research projects in the areas of data integration, automation, and AI.
+* 🤝  I'm open to collaborating on research projects.
 * ✉️  You can contact me at [mdiop@aimsammi.org](mailto:mdiop@aimsammi.org)
-* ⚡  I like running, fitness, and outings.
+* ⚡  I like fitness.
 
 <a href="https://www.twitter.com/BambaSpoid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/BambaSpoid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
